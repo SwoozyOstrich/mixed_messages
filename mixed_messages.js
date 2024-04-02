@@ -46,3 +46,4 @@ const messages = [
   }
 
   console.log(generateMixedMessages(messages));
+  // prints a random message from the messages array
