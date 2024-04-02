@@ -32,6 +32,7 @@ const messages = [
     "a silver lining",
     "if you look hard enough"
   ];
+// list of messages to be randomly selected from
 
   function generateMixedMessages(arr) {
     const numParts = 3;
